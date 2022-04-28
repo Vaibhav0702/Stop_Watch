@@ -72,8 +72,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 
-
-  **Introduction to Landing Page**
+# Introduction to Landing Page
 
 **There are Three different sections like Hour, Minutes and second. you can start, stop and reset Timer using buttons** 
 ![StopWatch](https://user-images.githubusercontent.com/97450767/165779624-c6f9e317-12b5-4184-a2e4-e76d4ad8b1fa.png)
