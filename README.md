@@ -33,37 +33,6 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-
-  **Introduction to Landing Page**
-
-**There are Three different sections like Hour, Minutes and second. you can start, stop and reset Timer using buttons** 
-![StopWatch](https://user-images.githubusercontent.com/97450767/165779624-c6f9e317-12b5-4184-a2e4-e76d4ad8b1fa.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
@@ -99,3 +68,22 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+
+
+  **Introduction to Landing Page**
+
+**There are Three different sections like Hour, Minutes and second. you can start, stop and reset Timer using buttons** 
+![StopWatch](https://user-images.githubusercontent.com/97450767/165779624-c6f9e317-12b5-4184-a2e4-e76d4ad8b1fa.png)
+
+
+
+
+
+
+
+
+
+
